@@ -74,16 +74,6 @@ done
 python -m vae_compare.probe.summarize --results-dir <results>
 ```
 
-## Citation
-
-```bibtex
-@misc{na2026videovae,
-  title  = {General-Purpose Video {VAEs} as Efficient Alternatives to Medical-Specific {VAEs} for Report-Conditioned {3D} {CT} Generation},
-  author = {Na, Woojin and Ahn, Suhyun and Park, Hyunjun and Park, Jinah},
-  note   = {Under review at IEEE ISBI 2027},
-  year   = {2026}
-}
-```
 
 ## Acknowledgements
 
